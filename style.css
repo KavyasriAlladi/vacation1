@@ -1,0 +1,25 @@
+.button1
+{
+width:80px;        
+height:60px;            
+border-radius:15%;
+margin-top:60px;
+margin-left:20px;
+margin-bottom: 10px;
+}
+.txt
+{
+    color: azure;
+    font-size: 40px;            
+    margin-left: 200px;
+    padding-bottom: 30px;
+    border: none;
+}
+.button2
+{
+    width: 100PX;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 80px;
+    background-color: rgb(149, 36, 143);
+}
